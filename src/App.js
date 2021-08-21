@@ -44,8 +44,9 @@ const App = () => {
           className="search-bar"
           value={search}
           onChange={UpdateSearch}
+          placeholder="Search for a recipe"
         />
-        <button type="submit" className="search-button" placeholder="Search for a recipe"> 
+        <button type="submit" className="search-button">
           Search
         </button>
       </form>

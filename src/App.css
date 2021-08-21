@@ -2,6 +2,7 @@ body{
     margin: 2rem;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
     background-color: rgba(245, 106, 129, 0.815);
 }
 
@@ -21,7 +22,7 @@ body{
 .App h1{
     font-size: 48px;
     color: #fff;
-    text-shadow: -1px 2px 5px black;
+    text-shadow: -1px 1px 3px rgb(39, 39, 39);
 }
 
 .search-form{
