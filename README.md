@@ -1,5 +1,5 @@
-# Recipe Seach Website
+# Recipes Search Website
 
-Simple recipe search website, built with ReactJs, using EDAMAM Search API for recipes.
+Recipes search website with a simple UI, built with ReactJs, using EDAMAM Search API for recipes.
 
-[Try here](https://therecipesearch.netlify.app/)
+[Try the website here](https://therecipesearch.netlify.app/)
